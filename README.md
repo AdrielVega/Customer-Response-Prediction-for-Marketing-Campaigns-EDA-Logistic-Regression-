@@ -1,0 +1,2 @@
+# Customer-Response-Prediction-for-Marketing-Campaigns-EDA-Logistic-Regression-
+This project analyzes customer data from a marketing campaign with the goal of identifying behavioral patterns and predicting whether a customer will respond positively to a campaign.  The analysis combines exploratory data analysis (EDA) with a machine learning classification model to support data-driven decision-making in marketing strategies. 
